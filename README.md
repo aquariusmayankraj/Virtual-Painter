@@ -25,9 +25,12 @@ The application is perfect for creative experiments, demos, or learning projects
 ---
 
 Name: Mayank Raj
+
 Email: ironheart.mayank@gmail.com
+
 College: Delhi Technological University (Formerly DCE)
 
 ---
+
 
 
