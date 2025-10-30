@@ -23,6 +23,9 @@ The application is perfect for creative experiments, demos, or learning projects
 - **Canvas Layering** – Drawings merge seamlessly with the live camera feed.
 
 ---
+![Header](https://github.com/user-attachments/assets/f87f07bc-fc7a-49e8-a794-3df107e665da)
+
+---
 
 Name: Mayank Raj
 
@@ -31,6 +34,7 @@ Email: ironheart.mayank@gmail.com
 College: Delhi Technological University (Formerly DCE)
 
 ---
+
 
 
 
