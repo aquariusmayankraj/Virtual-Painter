@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)  
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-blue?logo=opencv&logoColor=white)](https://opencv.org/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ---
 
@@ -25,17 +24,10 @@ The application is perfect for creative experiments, demos, or learning projects
 
 ---
 
-## Screenshots 🖼️
-
-| Selection Mode | Drawing Mode |
-|----------------|-------------|
-| ![Selection](screenshots/selection.png) | ![Drawing](screenshots/drawing.png) |
+Name: Mayank Raj
+Email: ironheart.mayank@gmail.com
+College: Delhi Technological University (Formerly DCE)
 
 ---
 
-## Installation ⚙️
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/virtual-painter.git
-cd virtual-painter
